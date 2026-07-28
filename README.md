@@ -1,136 +1,156 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%20I'm%20Bharti%20Bohra&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-# Hi, I'm Bharti Bohra 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=BCA+Graduate+%7C+Aspiring+AI+Engineer;Machine+Learning+%7C+Python+Developer;Open+Source+Contributor+%F0%9F%9A%80;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=BCA+Graduate+%7C+Open+Source+Contributor+%F0%9F%9A%80;Turning+Ideas+into+Intelligent+Applications;Currently+Exploring%3A+LLMs+%26+Agentic+AI;Always+Learning.+Always+Building." alt="Typing SVG" />
 
 <br>
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds  
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Opportunities-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LOCATION-India-00FF41?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-00FF41?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br>
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-</div>
+---
+
+## 👩‍💻 About Me
+
+Hi, I'm **Bharti Bohra** — a BCA graduate driven by a genuine passion for **Artificial Intelligence**, **Machine Learning**, and **Python development**. I love turning raw ideas into working, intelligent applications and I'm always experimenting with the latest in Generative AI.
+
+My core focus areas right now are **Large Language Models (LLMs)**, **Agentic AI**, **Machine Learning**, **Deep Learning**, and **Data Science**. I believe in learning by doing — building real projects, iterating fast, and sharing what I discover along the way with the wider dev community.
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🧠 Currently Learning**
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Deep Learning Architectures
+- Advanced Python for AI
+
+</td>
+<td valign="top" width="50%">
+
+**🤝 Open to Collaborate On**
+- Open Source AI/ML Projects
+- Python Development
+- Data Science Projects
+- Generative AI Applications
+
+</td>
+</tr>
+</table>
+
+💬 **Ask me about:** Building the future with AI — one project, one model, one commit at a time.
 
 ---
 
-### 🧠 About Me
-
-I'm Bharti — a BCA graduate driven by a passion for **Artificial Intelligence**, **Machine Learning**, and **Python development**. I love turning ideas into working projects: building intelligent applications, experimenting with Generative AI, and contributing to open-source.
-
-My core focus areas are **Large Language Models (LLMs)**, **Agentic AI**, **Machine Learning**, **Deep Learning**, and **Data Science**. I learn by doing — building real projects, iterating quickly, and sharing what I learn with the community.
-
-```python
-class Bharti:
-    def __init__(self):
-        self.role = "Aspiring AI Engineer"
-        self.based_in = "India"
-        self.currently_learning = ["LLMs", "Agentic AI", "Deep Learning"]
-        self.looking_to_collab = "Open Source AI/ML & Python projects"
-        self.fun_fact = "I debug with print statements and I'm not sorry."
-
-    def say_hi(self):
-        print("Thanks for stopping by — let's build something great together!")
-
-me = Bharti()
-me.say_hi()
-```
-
----
-
-### ⚡ Quick Facts
-
-- 🌍 &nbsp;Based in India
-- 🧠 &nbsp;Currently learning: **LLMs, Agentic AI, Machine Learning & Deep Learning**
-- 👥 &nbsp;Looking to collaborate on: **Open Source AI/ML Projects, Python Development, Data Science**
-- 💬 &nbsp;Ask me about: Building the future with AI — one project, one model, one commit at a time 🚀
-- ⚡ &nbsp;Fun fact: I turn coffee into code and bugs into "features" ☕
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" alt="R" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="40" height="40"/>
-<br>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="40" height="40"/>
-<br>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharti-02&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-02&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+**Languages**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharti-02&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharti-02&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="100%" />
+**AI / ML / Data Science**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+**Web & Backend**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+**Databases & Tools**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
-> 💡 **Note:** These widgets pull live data automatically from your GitHub username once the file is on your profile repo — no manual updates needed.
-
 ---
 
-### 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Bharti-02&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharti-02&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-02&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharti-02&theme=highcontrast&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharti-02&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="100%"/>
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Bharti-02/Bharti-02/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=Bharti-02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 </div>
-
-> ⚙️ To activate the snake animation above, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates and commits this SVG on a schedule.
 
 ---
 
-### 🌐 Connect with Me
+## 🚀 Featured Projects
 
-<p align="left">
-<a href="https://www.github.com/Bharti-02" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub"/>
+<div align="center">
+<a href="https://github.com/Bharti-02?tab=repositories">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharti-02&repo=REPLACE_WITH_REPO_1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharti-02&repo=REPLACE_WITH_REPO_2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bharti-bohra-2baa20305/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"/>
+</div>
+
+> ✏️ Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` with your actual pinned repo names — this makes recruiters land straight on your best work.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bharti-bohra-2baa20305/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+<a href="https://www.github.com/Bharti-02" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bharti-02&color=00FF41&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Bharti-02&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
-**Thank you for visiting — let's build something great together! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer" width="100%"/>
+
+**Thanks for visiting — let's build something great together! 🚀**
 
 </div>
