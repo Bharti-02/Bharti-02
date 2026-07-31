@@ -17,13 +17,10 @@
 
 ```bash
 $ whoami
-> BCA Graduate · AI/ML Engineer in progress · Open Source Contributor
+> AI/ML Engineer building real systems, not just models
 
-$ cat mission.txt
-> Turn ideas into working systems. Ship clean code. Never stop learning.
-
-$ status --current
-> Large Language Models · Agentic AI · Deep Learning
+$ status
+> Learning LLMs · Building Agentic AI · Shipping code
 ```
 
 <br>
