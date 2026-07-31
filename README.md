@@ -15,76 +15,34 @@
 
 <br>
 
-```bash
-$ whoami
-> AI/ML Engineer building real systems, not just models
-
-$ status
-> Learning LLMs · Building Agentic AI · Shipping code
-```
-
-<br>
+#### `$ whoami`
+### AI/ML Engineer building real systems, not just models
+#### `$ status`
+### Learning LLMs · Building Agentic AI · Shipping code
 
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&width=600&lines=LEARN+%C2%B7+BUILD+%C2%B7+DEPLOY" alt="Learn Build Deploy" />
-
 </div>
-
-<br>
 
 ## Skills
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**🧠 Machine Learning**
-
-Regression &nbsp;·&nbsp; Classification
-Clustering &nbsp;·&nbsp; Evaluation
-Training Pipelines
-
-</td>
-<td width="33%" valign="top">
-
-**🤖 Deep Learning & LLMs**
-
-Neural Networks
-Transformer Architectures
-Agentic AI Workflows
-
-</td>
-<td width="33%" valign="top">
-
-**⚙️ Engineering**
-
-API Development
-Clean Architecture
-Version Control
-
-</td>
-</tr>
-</table>
-
-<br>
+#### 🧠 Machine Learning
+### Regression · Classification · Clustering · Evaluation · Training Pipelines
+#### 🤖 Deep Learning & LLMs
+### Neural Networks · Transformer Architectures · Agentic AI Workflows
+#### ⚙️ Engineering
+### API Development · Clean Architecture · Version Control
 
 ## Tech Stack
 
-<div align="center">
-
-**Languages**
-<br>
+#### Languages
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
 
-<br><br>
-
-**AI / ML**
-<br>
+#### AI / ML
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=39FF14"/>
@@ -92,29 +50,19 @@ Version Control
 <img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
 
-<br><br>
-
-**Backend & Data**
-<br>
+#### Backend & Data
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
 
-<br><br>
-
-**Tools & Platforms**
-<br>
+#### Tools & Platforms
 <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14"/>
-
-</div>
-
-<br>
 
 ## GitHub Stats
 
