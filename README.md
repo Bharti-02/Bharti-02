@@ -1,268 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0f,100:0d1117&height=220&section=header&text=BHARTI%20BOHRA&fontSize=52&fontColor=39FF14&fontAlignY=36&desc=BCA%20Graduate%20|%20AI%20Engineer%20Aspirant&descAlignY=54&descSize=18&descColor=00FF9C&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0f,100:0d1117&height=220&section=header&text=BHARTI%20BOHRA&fontSize=52&fontColor=39FF14&fontAlignY=36&desc=AI%20%2F%20ML%20ENGINEER%20IN%20THE%20MAKING&descAlignY=54&descSize=16&descColor=00FF9C&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=750&lines=Building+AI+Applications+with+Python;Machine+Learning+%7C+Generative+AI+%7C+Open+Source;Learning+LLMs+%7C+RAG+%7C+Agentic+AI;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=39FF14&center=true&vCenter=true&width=700&lines=The+quieter+you+become%2C+the+more+you+are+able+to+hear." alt="Typing SVG" />
 
 <br>
 
-<a href="https://www.linkedin.com/in/bharti-bohra-2baa20305">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-
-<a href="https://github.com/Bharti-02">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
-
-<img src="https://img.shields.io/badge/Location-India-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14"/>
-
-<img src="https://komarev.com/ghpvc/?username=Bharti-02&style=for-the-badge&color=39FF14"/>
+<a href="https://www.linkedin.com/in/bharti-bohra-2baa20305/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14"/></a>
+<a href="https://www.github.com/Bharti-02"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14"/></a>
+<img src="https://img.shields.io/badge/INDIA-000000?style=for-the-badge&logo=googlemaps&logoColor=39FF14"/>
+<img src="https://komarev.com/ghpvc/?username=Bharti-02&style=for-the-badge&color=000000&label=VISITORS"/>
 
 </div>
 
----
-
-# 👋 Hi, I'm Bharti Bohra
-
-### **BCA Graduate | Aspiring AI Engineer | Machine Learning | Python Developer | Open Source Contributor**
-
-I'm passionate about building intelligent software using **Python, Machine Learning, Generative AI, and Cloud technologies**.
-
-I enjoy solving real-world problems through code and continuously learning modern AI technologies including **LLMs, Retrieval-Augmented Generation (RAG), LangChain, LangGraph, and Agentic AI**.
-
----
-
-# 🚀 About Me
-
-- 🎓 BCA Graduate
-- 🐍 Python Developer
-- 🤖 Machine Learning Enthusiast
-- ☁️ Google Cloud Generative AI Virtual Intern
-- 🏆 Completed **400+ Google Cloud Hands-on Labs**
-- 📚 Currently learning **LLMs, RAG, LangChain & Agentic AI**
-- 🌱 Exploring Open Source
-- 💼 Looking for **AI Engineer**, **Machine Learning Engineer**, **Python Developer**, and **Data Scientist** opportunities
-
----
-
-# 🧠 Skills
-
-### Machine Learning
-
-- Regression
-- Classification
-- Clustering
-- Feature Engineering
-- Model Evaluation
-
-### Artificial Intelligence
-
-- Generative AI
-- Prompt Engineering
-- LLM Fundamentals
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-
-### Backend Development
-
-- REST APIs
-- Flask
-- Django
-- FastAPI
-
-### Data Analysis
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,r"/>
-
-</p>
-
----
-
-## AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Hugging Face
-
----
-
-## Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,django,fastapi"/>
-
-</p>
-
----
-
-## Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
----
-
-## Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
-
-</p>
-
-- Google Cloud Platform (GCP)
-- Vertex AI
-- BigQuery
-- Jupyter Notebook
-
----
-
-# 🚀 Featured Projects
-
-### 🛡 Fraud Detection using Machine Learning
-
-Detect fraudulent transactions using multiple ML algorithms.
-
----
-
-### 🏠 House Price Prediction
-
-Machine Learning model for predicting housing prices.
-
----
-
-### ❤️ Heart Disease Prediction
-
-Predict heart disease risk using classification models.
-
----
-
-### 🩺 FitTrack
-
-Health recommendation system built with Machine Learning.
-
----
-
-### 🤖 AI Booking Agent
-
-FastAPI + Streamlit application with AI workflow.
-
----
-
-### 📋 Student Management Dashboard
-
-Python + Streamlit project for managing student records.
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharti-02&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharti-02&theme=vision-friendly-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-02&layout=compact&theme=vision-friendly-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharti-02&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bharti-02&theme=matrix&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📖 Currently Learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LangChain
-- LangGraph
-- Agentic AI
-- Prompt Engineering
-- Advanced Python
-- Deep Learning
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Land my first AI/ML role
-- 🚀 Build production-ready AI applications
-- 🌍 Contribute to Open Source
-- 📚 Master LLMs and Agentic AI
-- 📝 Share technical blogs
-- ⭐ Reach 1000+ GitHub contributions
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/bharti-bohra-2baa20305">
-<img src="https://img.shields.io/badge/LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<a href="mailto:bhartibohra02@gmail.com">
-<img src="https://img.shields.io/badge/Email-39FF14?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</p>
-
----
+<br>
+
+#### `$ whoami`
+### AI/ML Engineer building real systems, not just models
+#### `$ status`
+### Learning LLMs · Building Agentic AI · Shipping code
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=1800&pause=600&color=39FF14&center=true&vCenter=true&width=600&lines=LEARN+%C2%B7+BUILD+%C2%B7+DEPLOY" alt="Learn Build Deploy" />
+</div>
+
+## Skills
+
+#### 🧠 Machine Learning
+### Regression · Classification · Clustering · Evaluation · Training Pipelines
+#### 🤖 Deep Learning & LLMs
+### Neural Networks · Transformer Architectures · Agentic AI Workflows
+#### ⚙️ Engineering
+### API Development · Clean Architecture · Version Control
+
+## Tech Stack
+
+#### Languages
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+
+#### AI / ML
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14"/>
+
+#### Backend & Data
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
+
+#### Tools & Platforms
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14"/>
+
+## GitHub Stats
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharti-02&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=00FF9C"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Bharti-02&hide_border=true&background=0d1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=00FF9C&dates=00FF9C&currStreakNum=39FF14&sideNums=39FF14"/>
 
-### *"Keep Learning. Keep Building. Keep Growing."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0f,100:0d1117&height=120&section=footer"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharti-02&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=00FF9C"/>
 
 </div>
+
+<br>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharti-02&bg_color=0d1117&color=39FF14&line=39FF14&point=00FF9C&hide_border=true&area=true&area_color=39FF14" width="100%"/>
+
+</div>
+
+<br>
+
+## Goals
+
+- Build and ship a production-grade agentic AI project end-to-end
+- Go deeper into transformer internals and fine-tuning workflows
+- Land my first role as an AI / ML Engineer
+- Contribute meaningfully to an active open-source ML repository
+- Write and share what I learn along the way
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:001a0f,100:0d1117&height=100&section=footer" width="100%"/>
+
+<sub>Always open to a good problem — reach out on LinkedIn.</sub>
+
+</div> make strong profile readme 
