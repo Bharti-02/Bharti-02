@@ -103,4 +103,4 @@
 
 <sub>Always open to a good problem — reach out on LinkedIn.</sub>
 
-</div> make strong profile readme 
+</div> 
